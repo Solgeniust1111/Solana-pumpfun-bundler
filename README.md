@@ -55,3 +55,6 @@ This is the steps of My bundler.
 Be careful when you have bundle buy  
 Sometimes there is a confirm error because slippage.  
 so I updated Version with solving that problem
+
+currently only one jito tx is sucessful in one second
+but i can confirm serveral txs in one second
